@@ -26,7 +26,6 @@ python3 bench.py why --task cart      # why did failed runs fail?
 ```
 
 Needs the `claude` CLI (Claude Code) logged in. Raw output goes to `results_cart/`.
-`fake_claude.py` is a free simulator (fake numbers) to test the script: `CLAUDE_BIN=./fake_claude.py`.
 
 ## Known limits
 
