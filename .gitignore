@@ -1,0 +1,5 @@
+node_modules/
+__pycache__/
+results*/raw_*.json
+results*/run_*.js
+.DS_Store
